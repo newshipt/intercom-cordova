@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-intercom",
+  "name": "shipt-cordova-plugin-intercom",
   "version": "6.2.0",
   "description": "Official Cordova/PhoneGap plugin for Intercom",
   "cordova": {
-    "id": "cordova-plugin-intercom",
+    "id": "shipt-cordova-plugin-intercom",
     "platforms": [
       "ios",
       "android"

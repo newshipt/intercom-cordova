@@ -37,7 +37,7 @@ cordova platform add android
 Now you can install the Intercom plugin:
 
 ```
-cordova plugin add cordova-plugin-intercom
+cordova plugin add shipt-cordova-plugin-intercom
 ```
 You can now run your app with the following command:
 #### iOS

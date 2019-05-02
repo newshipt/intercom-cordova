@@ -16,19 +16,19 @@ This is a plugin that allows your Cordova or PhoneGap app to use [Intercom for i
 
 To install the plugin in your Cordova app, run the following:
 ```script
-cordova plugin add cordova-plugin-intercom
+cordova plugin add shipt-cordova-plugin-intercom
 ```
 ### PhoneGap
 
 To add the plugin to your PhoneGap app, add the following to your `config.xml`:
 ```xml
-<plugin name="cordova-plugin-intercom" version="~6.2.0" />
+<plugin name="shipt-cordova-plugin-intercom" version="~6.2.0" />
 ```
 ### Ionic
 
 Intercom is compatible with both Ionic 1 & 2. To use the Intercom with Ionic, run the following:
 ```script
-cordova plugin add cordova-plugin-intercom
+cordova plugin add shipt-cordova-plugin-intercom
 ```
 Make sure you [initialize Intercom](https://developers.intercom.com/docs/cordova-phonegap-installation#section-step-2-initialize-intercom) correctly.
 #### Ionic 1

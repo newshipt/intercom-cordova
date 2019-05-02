@@ -87,8 +87,8 @@ Update guide:
     ```
 2. Update `plugin-cordova-intercom`:
     ```
-    cordova plugin remove cordova-plugin-intercom
-    cordova plugin add cordova-plugin-intercom
+    cordova plugin remove shipt-cordova-plugin-intercom
+    cordova plugin add shipt-cordova-plugin-intercom
     ```
 3. Ensure your config.xml specifies an android-minSdkVersion at or above 19:
     * `<preference name="android-minSdkVersion" value="19" />`
